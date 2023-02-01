@@ -1,0 +1,2 @@
+F:\code\cpp\黑马程序员课程\结构体\Debug\结构体.exe
+F:\code\cpp\黑马程序员课程\结构体\Debug\结构体.pdb

@@ -1,0 +1,2 @@
+F:\code\cpp\黑马程序员课程\01 C++书写HelloWorld\Debug\01 C++书写HelloWorld.exe
+F:\code\cpp\黑马程序员课程\01 C++书写HelloWorld\Debug\01 C++书写HelloWorld.pdb

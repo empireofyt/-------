@@ -1,0 +1,4 @@
+﻿  03 成员函数作友元.cpp
+F:\code\cpp\黑马程序员课程\友元\友元\03 成员函数作友元.cpp(44,30): error C2248: “Building::m_BedRoom”: 无法访问 private 成员(在“Building”类中声明)
+F:\code\cpp\黑马程序员课程\友元\友元\03 成员函数作友元.cpp(24): message : 参见“Building::m_BedRoom”的声明
+F:\code\cpp\黑马程序员课程\友元\友元\03 成员函数作友元.cpp(16): message : 参见“Building”的声明
